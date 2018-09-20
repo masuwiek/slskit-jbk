@@ -1,0 +1,31 @@
+".container" : {
+  	backgroundColor:"white"
+},
+
+".loginTextField" : {
+	borderStyle: Ti.UI.INPUT_BORDERTYLE_BEZEL,
+	top: 10,
+	width: 300,
+	height: 55
+},
+
+".loginButton" : {
+	borderRadius:10,
+	backgroundColor:'red',
+	color:'white',
+	width:200,
+	top: 30
+},
+
+".loginImage" : {
+	width: 150,
+	top: 30,
+	image: '/logo.png'
+},
+
+".loginHeader" : {
+	color: 'white',
+	textAlign: 'center'
+}
+
+

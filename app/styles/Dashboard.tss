@@ -1,0 +1,12 @@
+
+".container" : {
+  
+},
+
+".btnAll" : {
+	borderRadius:10,
+	backgroundColor:'red',
+	color:'white',
+	width:200,
+},
+

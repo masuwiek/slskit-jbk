@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="loginForm" layout="vertical" title="SALES KIT" class="loginHeader">
+		<ImageView class="loginImage"></ImageView>
+		<TextField class="loginTextField" id="username" hintText="Username"/>
+		<TextField class="loginTextField" id="password" hintText="Password" passwordMask="true"/>
+		<Button class="loginButton" id="loginSubmit" onClick="doLogin">Login</Button>
+	</Window>
+</Alloy>

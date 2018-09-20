@@ -1,0 +1,17 @@
+<Alloy>
+	
+		<TabGroup id="tabDashboard">
+			<Tab title="Scan">
+				<Window title="Scan">
+					<Label>Ini halaman SCAN</Label>
+				</Window>
+			</Tab>
+			<Tab title="Setting">
+				<Window title="Setting">
+					<Button class="btnAll" top="50" onClick="Profile">Profile</Button>
+					<Button class="btnAll" top="120" onClick="Logout">Logout</Button>
+				</Window>
+			</Tab>
+		</TabGroup>
+			
+</Alloy>
